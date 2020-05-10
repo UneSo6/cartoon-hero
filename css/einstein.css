@@ -60,6 +60,15 @@ footer{
 	padding-right: 10px;
 }
 
+a footer{
+	color: white;
+}
+
+a footer:hover{
+	opacity: .5;
+	background-color: transparent;
+}
+
 footer p{
 	margin: 0;
 }
