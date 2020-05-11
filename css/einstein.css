@@ -45,11 +45,11 @@ h2{
 }
 
 a{
-	color: red;
+	color: pink;
 }
 
 a:hover{
-	color: blue;
+	color: purple;
 }
 
 footer{
@@ -60,11 +60,11 @@ footer{
 	padding-right: 10px;
 }
 
-a footer{
+footer a{
 	color: white;
 }
 
-a footer:hover{
+footer a:hover{
 	opacity: .5;
 	background-color: transparent;
 }
